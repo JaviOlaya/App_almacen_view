@@ -31,7 +31,9 @@ DJANGO_APPS = (
 )
 
 LOCAL_APPS = (
-    
+    'applications.pedidos',
+    'applications.usuarios',
+    'applications.productos',
 )
 
 THIRD_APPS = (
